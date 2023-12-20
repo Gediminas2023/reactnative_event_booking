@@ -9,7 +9,6 @@ import {
   TextInput,
   TouchableOpacity,
   SafeAreaView,
-  Button,
 } from "react-native";
 const Login = ({ navigation }) => {
   const [email, setEmail] = useState("");
